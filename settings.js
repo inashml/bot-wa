@@ -10,23 +10,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285813708397'] //ur owner number
-global.ownernomer = "6285813708397" //ur owner number2
-global.ownername = "FallZx" //ur owner name
-global.ytname = "YT: FallXD425" //ur yt chanel name
-global.socialm = "GitHub: FallEzz" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['6289673129395'] //ur owner number
+global.ownernomer = "6289673129395" //ur owner number2
+global.ownername = "iNash" //ur owner name
+global.ytname = "YT: iNashML" //ur yt chanel name
+global.socialm = "Tiktok: iNashML" //ur github or insta name
+global.location = "Indonesia, Jawa Barat, Kota Bekasi" //ur location
 
 //new
-global.botname = "Fuirly Botz - MD"
-global.ownernumber = '6285813708397'
-global.ownername = '6285813708397'
-global.ownerNumber = ["6285813708397@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@FallXD425"
-global.websitex = "https://youtu.be/ecl-JDVDz3E"
-global.wagc = "https://chat.whatsapp.com/KCYr0YwODJTEEFUlPxuNXQ"
+global.botname = "Nash Bot"
+global.ownernumber = '6289673129395'
+global.ownername = '6289673129395'
+global.ownerNumber = ["6289673129395@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@inashml"
+global.websitex = "https://youtu.be/inashml"
+global.wagc = "."
 global.themeemoji = '🥀'
-global.wm = "FallZx"
+global.wm = "Nash"
 global.botscript = 'Silahkan Datang Ke Channel FallXD425' //script link
 global.packname = "Sticker By"
 global.author = "Fuirly\n\n\nA whatsapp bot Created by\nFallZx Development\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +6285813708397"
